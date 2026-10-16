@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hai Saya Abidzar Dzakwan Sahudi 👋
 
-<!--
-**NagaApiHitam/NagaApiHitam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏫 Mahasiswa Informatika Semester 3
 
-Here are some ideas to get you started:
+# Tentang Saya
+*Hobi : Main Game* <br>
+*Alumni : SMK TI Annajiyah Bahrul Ulum Tambak Beras Jombang* <br>
+*Keahlian : Web Development* <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# SKill Yang Dikuasai
+*HTML CSS JavaScript*
+
+<a href="https://www.instagram.com/bizrrr_ae/" target="blank">Kunjungi Instagram Saya</a>
